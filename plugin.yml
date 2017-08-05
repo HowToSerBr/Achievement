@@ -1,0 +1,5 @@
+name: PraAchivements
+version: 1.0
+main: me.praquenome.Main
+commands:
+    conquistas:
